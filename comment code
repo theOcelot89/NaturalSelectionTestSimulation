@@ -1,0 +1,5 @@
+# newEnv = Environment()
+#
+# fig, ax = plt.subplots()
+# ax.plot(newEnv.foodPos, newEnv.foodPos, 'o')
+# plt.show()
